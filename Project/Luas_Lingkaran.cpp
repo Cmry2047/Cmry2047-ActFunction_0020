@@ -10,6 +10,11 @@ void input()
     cin >> r;
 }
 
+float luas(float a)
+{
+    return phi * a * a;
+}
+
 int main()
 {
 
